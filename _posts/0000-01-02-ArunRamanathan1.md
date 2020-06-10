@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hi my name is Arun Ramanathan
+Rascal Does Not Dream of Bunny Girl Senpai is the best anime ever
 Use the left arrow to go back!
